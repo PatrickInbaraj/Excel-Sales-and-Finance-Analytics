@@ -6,12 +6,12 @@ This repository showcases my data analytics projects using Excel, focusing on de
 
 #### Project Objectives:
 
-**1.** Develop a comprehensive _[Customer Performance Report](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20performance%20report.pdf)_, detailing the net sales performance across various customers over recent fiscal years.
-**2.** Conduct an in-depth analysis of _[Market Performance vs. Sales Targets](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Market%20performance%20vs%20Target.pdf)_, evaluating how different markets have met or missed their sales targets.
-**3.** Generate a _[Marketwise Gross Margin Report](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Marketwise%20GM.pdf)_, outlining gross margins by market to assess profitability.
-**4.** Provide insights through the _[Subzone Wise Quarterly Gross Margin](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Subzone%20wise%20Qaterly%20GM.pdf)_, showing performance across different geographical segments over the quarters.
-**5.** Compile a detailed _[Quarterly Profit and Loss Statement](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Quaterly%20Profit%20and%20Loss.pdf)_, for financial tracking and operational insights.
-**6.** Examine the _[Divisionwise Net Sales for 2021](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Divisionwise%20net%20sales%202021.pdf)_, presenting detailed figures for sales across different divisions, enhancing understanding of the operational segments' performance.
+- Develop a comprehensive _[Customer Performance Report](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20performance%20report.pdf)_, detailing the net sales performance across various customers over recent fiscal years.
+- Conduct an in-depth analysis of _[Market Performance vs. Sales Targets](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Market%20performance%20vs%20Target.pdf)_, evaluating how different markets have met or missed their sales targets.
+- Generate a _[Marketwise Gross Margin Report](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Marketwise%20GM.pdf)_, outlining gross margins by market to assess profitability.
+- Provide insights through the _[Subzone Wise Quarterly Gross Margin](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Subzone%20wise%20Qaterly%20GM.pdf)_, showing performance across different geographical segments over the quarters.
+- Compile a detailed _[Quarterly Profit and Loss Statement](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Quaterly%20Profit%20and%20Loss.pdf)_, for financial tracking and operational insights.
+- Examine the _[Divisionwise Net Sales for 2021](https://github.com/PatrickInbaraj/Excel-Sales-and-Finance-Analytics/blob/main/Divisionwise%20net%20sales%202021.pdf)_, presenting detailed figures for sales across different divisions, enhancing understanding of the operational segments' performance.
 
 #### Purpose of Sales Analytics:
 
